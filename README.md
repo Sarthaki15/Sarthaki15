@@ -1,11 +1,8 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=900&height=70&duration=4000&pause=2000&lines=Hello!+👋+I'm+Sarthaki+Parad;" />
-</h1>
-
-<h3 align="center">🚀 Cloud & DevOps Engineer | AWS | Docker | Kubernetes | CI/CD</h3>
+<h1 align="center">👋 Hi, I'm Sarthaki Parad</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=750&lines=Cloud+%26+DevOps+Engineer+☁️;AWS+%7C+Linux+%7C+Docker+%7C+Kubernetes;CI%2FCD+%7C+Terraform+%7C+Jenkins;Automation+%7C+Monitoring+%7C+Infrastructure" alt="Typing SVG" />
+  <strong>Cloud & DevOps Engineer</strong><br>
+  AWS • Linux • Docker • Kubernetes • Jenkins • Terraform
 </p>
 
 ---
